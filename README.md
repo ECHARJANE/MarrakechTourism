@@ -24,7 +24,20 @@ A modern tourism booking platform built with Laravel for discovering and booking
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+### Home Page
+![Home](screenshots/home1.JPG)
+![Home](screenshots/home2.JPG)
+
+### Services Page
+![Product](screenshots/services.JPG)
+
+### About Page
+![Cart](screenshots/about.JPG)
+
+### Contact Page
+![Cart](screenshots/contact.JPG)
+
+
 
 ## 👨‍💻 Author
 
